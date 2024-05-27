@@ -1,0 +1,12 @@
+package corejava;
+
+public class wrapper {
+public static void main(String[] args) {
+	float f=25.45f; float a;
+	Float obj=new Float(f);
+	System.out.println(obj);
+	
+	a=obj;
+	System.out.println(a);
+}
+}

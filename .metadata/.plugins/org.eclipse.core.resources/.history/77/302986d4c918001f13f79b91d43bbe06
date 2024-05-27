@@ -1,0 +1,16 @@
+package corejava;
+
+public class throwexecption {
+public static void main(String[] args) {
+	/*int a=36;
+	if(a>25) {
+		throw new ArithmeticException("invalid age");
+	}*/
+	String s="hello";
+	if(s==null) {
+		throw new NullPointerException("string value is null");
+	}
+}
+
+
+}

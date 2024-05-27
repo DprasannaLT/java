@@ -1,0 +1,23 @@
+package corejava;
+class animal{
+	animal(){
+		
+		System.out.println("animal method");
+	}
+	
+}
+class dog extends animal{
+	dog(){
+		
+		System.out.println("dog method");
+	}
+}
+
+public class superkeyword {
+	public static void main(String[] args) {
+		dog d=new dog();
+		
+	}
+
+
+}

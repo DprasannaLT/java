@@ -1,0 +1,13 @@
+package corejava;
+import java.util.*;
+import java.util.ArrayList;
+
+public class collection {
+ArrayList<String> L=new ArrayList<String>();
+L.add("prasanna");
+
+
+
+
+
+}

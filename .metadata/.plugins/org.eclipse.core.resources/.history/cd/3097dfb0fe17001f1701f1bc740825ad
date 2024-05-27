@@ -1,0 +1,17 @@
+package corejava;
+
+class news implements jessy {
+	public void jeans() {
+		
+	}
+	
+}
+
+public class multipleinheritance {
+	public static void main(String[] args) {
+		news ll=new news();
+		ll.jeans();
+		
+	}
+
+}

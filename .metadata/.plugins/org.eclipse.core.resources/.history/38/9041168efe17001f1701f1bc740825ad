@@ -1,0 +1,17 @@
+package corejava;
+
+class raji implements jessy {
+	public void jeans() {
+		
+	}
+	
+}
+
+public class multipleinheritance {
+	public static void main(String[] args) {
+		raji ll=new raji();
+		ll.jeans();
+		
+	}
+
+}

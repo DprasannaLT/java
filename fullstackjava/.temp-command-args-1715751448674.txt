@@ -1,0 +1,7 @@
+-Dfile.encoding=UTF-8
+-classpath
+"C:\\Users\\LAXMIPRASANNA\\OneDrive\\Desktop\\full stack\\fullstackjava\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+corejava.charvalue
+HYD
+Tel

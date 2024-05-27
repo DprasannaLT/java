@@ -1,0 +1,21 @@
+package corejava;
+
+
+class fifth implements abstracts{
+	public void pass() {
+		System.out.println("pass");
+	}
+public void fail() {
+	System.out.println("pass");
+	}
+	
+}
+
+public class score {
+	public static void main(String[] args) {
+		fifth obj =new fifth();
+		obj.fail();
+		obj.pass();
+	}
+
+}

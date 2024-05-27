@@ -1,0 +1,6 @@
+package corejava;
+
+public interface akka  {
+	public void jeans();
+
+}

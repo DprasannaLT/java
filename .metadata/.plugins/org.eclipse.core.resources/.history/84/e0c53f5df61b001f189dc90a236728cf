@@ -1,0 +1,15 @@
+package corejava;
+
+import java.util.HashMap;
+
+public class maphash {
+	public static void main(String[] args) {
+		HashMap h=new HashMap();
+		h.put('a', "lucky");
+		h.put('b', 25);
+		h.put('c', 'S');
+		System.out.println(h);
+		System.out.println(h.get('c'));
+	}
+
+}

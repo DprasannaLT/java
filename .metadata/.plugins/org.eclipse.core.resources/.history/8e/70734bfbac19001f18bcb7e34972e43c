@@ -1,0 +1,15 @@
+package corejava;
+
+class top{
+	float f=1208.02f;
+	public void top() {
+		f++;
+		System.out.println(f);
+	}
+}
+public class defaultconstructor {
+public static void main(String[] args) {
+	top obj=new top();
+	obj.top();
+}
+}

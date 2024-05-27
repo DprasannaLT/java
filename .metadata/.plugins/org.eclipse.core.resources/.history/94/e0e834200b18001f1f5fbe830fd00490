@@ -1,0 +1,15 @@
+package corejava;
+
+
+final class fruits{
+	public void apple() {
+		final int a=10;
+	}
+}
+public class errorfinalkeyword {
+	public errorfinalkeyword() {
+		
+	}
+	
+
+}

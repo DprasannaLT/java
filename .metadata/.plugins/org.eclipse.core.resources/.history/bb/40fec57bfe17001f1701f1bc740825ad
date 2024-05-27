@@ -1,0 +1,17 @@
+package corejava;
+
+class laxmi {
+	public void jeans() {
+		
+	}
+	
+}
+
+public class multipleinheritance {
+	public static void main(String[] args) {
+		laxmi ll=new laxmi();
+		ll.jeans();
+		
+	}
+
+}

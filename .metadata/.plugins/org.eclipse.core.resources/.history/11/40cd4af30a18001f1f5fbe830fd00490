@@ -1,0 +1,21 @@
+package corejava;
+
+abstract class actors{
+	public void ntr();
+	public void arjun();
+}
+class heros {
+	public void ntr() {
+		
+	}
+}
+class heros1 {
+	public void arjun() {
+		
+	}
+}
+
+
+public interface abstraction {
+
+}

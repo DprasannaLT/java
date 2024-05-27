@@ -1,0 +1,17 @@
+package corejava;
+
+import java.util.TreeMap;
+
+public class maptree {
+public static void main(String[] args) {
+	TreeMap t=new TreeMap();
+	t.put('a', 25);
+	t.put('b', 12);
+	t.put('c', -5);
+	t.put('d', -0);
+	h.put('a', "lucky");
+	h.put('b', 25);
+	h.put('c', 'S');
+	System.out.println(t);
+}
+}

@@ -1,0 +1,12 @@
+package corejava;
+
+public class simpleinterest {
+public static void main(String[] args) {
+	int p=1500;
+	int t=5;
+	int r=25;
+	int intreset=1500*5*25/100;
+	System.out.println(intreset);
+	
+}
+}

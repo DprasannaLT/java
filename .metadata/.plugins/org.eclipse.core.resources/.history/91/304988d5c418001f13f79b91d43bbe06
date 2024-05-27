@@ -1,0 +1,14 @@
+package corejava;
+
+public class nullpointerexception {
+public static void main(String[] args) {
+	String s="";
+	try {
+		System.out.println(s);
+	}
+	catch(NullPointerException ee){
+		System.out.println("please enter the string value");
+	}
+	
+}
+}

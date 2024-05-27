@@ -1,0 +1,15 @@
+package corejava;
+
+public class onetrymanycatch {
+	public static void main(String[] args) {
+		try {
+			int a[]= {12,15,17};
+			System.out.println(a[2]);
+		}
+		
+		catch(ArrayIndexOutOfBoundsException ee) {
+			System.out.println("provide proper index value");
+		}
+	}
+
+}
